@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunha-shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### 👋 Hi! I am Sunha Shin. ###
+## 👋 Hi! I am Sunha Shin. ##
 I am a winter 2020 graduate of Sheridan College's diploma degree in computer programmer:computer: I am authorized to work in Canada on a long-term and permanent basis :maple_leaf:<br>
 
 
-### :purple_heart: Skills ###
+## :purple_heart: Skills ##
 * **Programming language:**
      * Angular.js, React.js, C# and .Net, Javascript<br>
      * Java, Node.js, jQuery, PHP<br> 
@@ -16,13 +16,13 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
      * Visual Studio Code, Eclips, XML, JSON, Git, MS Project<br>
 
 
-### :mortar_board: Education ###
+## :mortar_board: Education ##
 |Institution|Major|Degree|Year|
 |-----------|-----|------|----|
 |Sheridan College Institute of Technology and Advanced Learning|Computer Programmer|Diploma|Aug 2019 - Dec 2020|
 
 
-### :mailbox: Contacts ###
+## :mailbox: Contacts ##
 
 Feel free to reach me at :e-mail: shinsunha11@gmail.com or please visit my LinkedIn. <br>
 &nbsp;:point_down:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
