@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunha-shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋 Hi! I am Sunha Shin. ###
-I am a winter 2020 graduate of Sheridan College's diploma degree in computer programmer:computer:. I am authorized to work in Canada on a long-term and permanent basis.<br>
+I am a winter 2020 graduate of Sheridan College's diploma degree in computer programmer:computer:. I am highly skilled and educated in web development and database designing skills and also passionate about applying a structured approach to program development testing and debugging. I have successfully developed advanced procedural programs in an Object-Oriented programming language, including algorithms utilizing dynamic data structures during my course and am considered by my colleagues to be a highly organized thinker and works well on teams. I am authorized to work in Canada on a long-term and permanent basis.<br>
 
 
 ### :purple_heart: Skills ###
