@@ -24,6 +24,7 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 ### :mailbox: Contacts ###
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:shinsunha11@gmail.com)
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sunha-shin/)](https://www.linkedin.com/in/sunha-shin/)
+<br>
 Feel free to reach me at :e-mail: shinsunha11@gmail.com or Please visit my LinkedIn <br>
 
 <!--
