@@ -14,8 +14,15 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 * Operating systems<br>
 * Project management<br>
 
-Feel free to reach me at :e-mail: shinsunha11@gmail.com 
 
+### :school: Education ###
+|Institution|Degree|Major|Year|
+|-----------|------|-----|----|
+|Sheridan College Institute of Technology and Advanced Learning|Diploma|Computer Programmer|Aug 2019 - Dec 2020|
+
+
+### :mailbox: Contacts ###
+Feel free to reach me at :e-mail: shinsunha11@gmail.com 
 <!--
 **sunha-shin/sunha-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
