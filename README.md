@@ -16,7 +16,7 @@
 * Project management<br>
 
 
-### :school: Education ###
+### :mortar_board: Education ###
 |Institution|Major|Degree|Year|
 |-----------|-----|------|----|
 |Sheridan College Institute of Technology and Advanced Learning|Computer Programmer|Diploma|Aug 2019 - Dec 2020|
