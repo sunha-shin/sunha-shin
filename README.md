@@ -5,10 +5,10 @@
 
 
 ### :purple_heart: Skills ###
-<br>* Programming language : Angular.js, React.js, C# and .Net, Java, Javascript, Node.js, jQuery, PHP, HTML5, CSS, Bootstrap
-<br>* Operating System: Unix, Linux
-<br>* RDBMS: Oracle, MySql
-<br>* Others : Visual Studio Code, Eclips, XML, JSON, Git, MS Project,
+* Programming language : Angular.js, React.js, C# and .Net, Java, Javascript, Node.js, jQuery, PHP, HTML5, CSS, Bootstrap<br>
+* Operating System: Unix, Linux<br>
+* RDBMS: Oracle, MySql<br>
+* Others : Visual Studio Code, Eclips, XML, JSON, Git, MS Project<br>
 
 
 
