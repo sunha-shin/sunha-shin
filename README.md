@@ -16,9 +16,9 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 
 
 ### :school: Education ###
-|Institution|Degree|Major|Year|
-|-----------|------|-----|----|
-|Sheridan College Institute of Technology and Advanced Learning|Diploma|Computer Programmer|Aug 2019 - Dec 2020|
+|Institution|Major|Degree|Year|
+|-----------|-----|------|----|
+|Sheridan College Institute of Technology and Advanced Learning|Computer Programmer|Diploma|Aug 2019 - Dec 2020|
 
 
 ### :mailbox: Contacts ###
