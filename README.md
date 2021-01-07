@@ -22,7 +22,9 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 
 
 ### :mailbox: Contacts ###
-Feel free to reach me at :e-mail: shinsunha11@gmail.com 
+Feel free to reach me at :e-mail: shinsunha11@gmail.com <br>
+or<br>
+Please visit my [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sunha-shin/)](https://www.linkedin.com/in/sunha-shin/)
 <!--
 **sunha-shin/sunha-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
