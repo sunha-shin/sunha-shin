@@ -5,7 +5,7 @@
 
 
 ### :purple_heart: Skills ###
-* Programming language: 
+#### * Programming language: ####
      * Angular.js, React.js, C# and .Net, Javascript<br>
      * Java, Node.js, jQuery, PHP<br> 
      * HTML5, CSS, Bootstrap<br>
