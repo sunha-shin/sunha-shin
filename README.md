@@ -3,16 +3,15 @@
 
 I am a winter 2020 graduate of Sheridan College's diploma degree in computer programmer:computer:. I am authorized to work in Canada on a long-term and permanent basis. My professional skills include:<br>
 
-
-<br>• Web-based application development for mobile smartphones using Angular.js/jQuery/Node.js
-<br>• Web development and interface design using Javascript/PHP/HTML5/CSS3
-<br>• Java, C# and .NET
-<br>• Database design and implementation (Oracle/MySQL)
-<br>• Network communications and configurations
-<br>• Systems analysis and design
-<br>• Communication skills
-<br>• Operating systems
-<br>• Project management
+<br>:small_blue_diamond: Web-based application development for mobile smartphones using Angular.js/jQuery/Node.js
+<br>:small_blue_diamond: Web development and interface design using Javascript/PHP/HTML5/CSS3
+<br>:small_blue_diamond: Java, C# and .NET
+<br>:small_blue_diamond: Database design and implementation (Oracle/MySQL)
+<br>:small_blue_diamond: Network communications and configurations
+<br>:small_blue_diamond: Systems analysis and design
+<br>:small_blue_diamond: Communication skills
+<br>:small_blue_diamond: Operating systems
+<br>:small_blue_diamond: Project management
 
 Feel free to reach me at :e-mail: shinsunha11@gmail.com 
 
