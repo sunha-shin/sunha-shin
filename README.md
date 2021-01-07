@@ -3,6 +3,7 @@
 
 I am a winter 2020 graduate of Sheridan College's diploma degree in computer programmer:computer:. I am authorized to work in Canada on a long-term and permanent basis.<br>
 
+<br>
 
 ### :purple_heart: Skills ###
 * **Programming language:**
@@ -16,13 +17,14 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 * **Others:** 
      * Visual Studio Code, Eclips, XML, JSON, Git, MS Project<br>
 
-
+<br>
 
 ### :mortar_board: Education ###
 |Institution|Major|Degree|Year|
 |-----------|-----|------|----|
 |Sheridan College Institute of Technology and Advanced Learning|Computer Programmer|Diploma|Aug 2019 - Dec 2020|
 
+<br>
 
 ### :mailbox: Contacts ###
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:shinsunha11@gmail.com)
