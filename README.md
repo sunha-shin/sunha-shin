@@ -9,9 +9,12 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
      * Angular.js, React.js, C# and .Net, Javascript<br>
      * Java, Node.js, jQuery, PHP<br> 
      * HTML5, CSS, Bootstrap<br>
-* **Operating System:** Unix, Linux<br>
-* **RDBMS:** Oracle, MySql <br>
-* **Others:** Visual Studio Code, Eclips, XML, JSON, Git, MS Project<br>
+* **Operating System:** 
+     * Unix and Linux<br>
+* **RDBMS:** 
+     * Oracle and MySql <br>
+* **Others:** 
+     * Visual Studio Code, Eclips, XML, JSON, Git, MS Project<br>
 
 
 
