@@ -3,7 +3,7 @@
 
 I am a winter 2020 graduate of Sheridan College's diploma degree in computer programmer:computer:. I am authorized to work in Canada on a long-term and permanent basis. <br>
 
-:blue_heart: ### Skills
+:blue_heart: ###Skills
 * Web-based application development for mobile smartphones using Angular.js/jQuery/Node.js<br>
 * Web development and interface design using Javascript/PHP/HTML5/CSS3
 * Java, C# and .NET<br>
