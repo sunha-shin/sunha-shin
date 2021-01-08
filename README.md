@@ -13,7 +13,7 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 * **RDBMS:** 
      * Oracle and MySql <br>
 * **Others:** 
-     * Visual Studio Code, Eclips, XML, JSON, Git, MS Project<br>
+     * Visual Studio Code, Eclipse, XML, JSON, Git, MS Project<br>
 
 
 ## :mortar_board: Education ##
