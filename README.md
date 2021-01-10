@@ -30,6 +30,7 @@ Feel free to reach me at :e-mail: shinsunha11@gmail.com or please visit my Linke
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:shinsunha11@gmail.com)
 [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/sunha-shin/)](https://www.linkedin.com/in/sunha-shin/)
 <br>
+
 <!--
 **sunha-shin/sunha-shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
