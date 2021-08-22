@@ -9,7 +9,7 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
      * JavaScript(ES6+), SCSS, CSS3, HTML5
      * Node.js, Next.js<br>
 * **Operating System:** 
-     * Unix and Linux<br>
+     * Linux<br>
 * **RDBMS:** 
      * Oracle and MySql <br>
 * **Others:** 
