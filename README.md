@@ -5,9 +5,8 @@ I am a winter 2020 graduate of Sheridan College's diploma degree in computer pro
 
 ## :purple_heart: Skills ##
 * **Front-end languages:**
-     * React, Redux, Redux-saga
-     * JavaScript(ES6+), SCSS, CSS3, HTML5
-     * Node.js, Next.js<br>
+     * React, Redux, Javascript
+     * JavaScript(ES6+), SCSS, CSS3, HTML5<br>
 * **Operating System:** 
      * Linux<br>
 * **RDBMS:** 
